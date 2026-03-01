@@ -1,0 +1,3 @@
+|    Name     | Install |                                                                                          Description & Data                                                                                           |       Cost        | HL  |
+| :---------: | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-: |
+| Memory Chip |   N/A   | **Chipware**<br><br>The standard for data storage. While installed into a Chipware socket, the user's cyberware can store data on it or access data stored on it.<br><br>Requires [[Chipware Socket]] | 10eb<br>(*Cheap*) |  0  |

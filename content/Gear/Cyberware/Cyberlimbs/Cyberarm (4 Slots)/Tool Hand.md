@@ -1,0 +1,3 @@
+|   Name    | Install |                                                                              Description & Data                                                                              |       Cost        |   HL    |
+| :-------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-----: |
+| Tool Hand | Clinic  | [[Cyberarm]] Option. Fingers contain screwdriver, wrench, small drill, etc. Never be without your `Techtool`! Can be installed as the only piece of Cyberware in a meat arm. | 100eb (*Premium*) | 3 (1D6) |

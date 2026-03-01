@@ -1,0 +1,1 @@
+Cyberlimb option. Each store 4 Standard, or 2 Extended Magazines for handguns at a time, actuators deploy them and insert into the gun when reloading. This grants you 4 (or 2\) instant reloads without spending an action, after that you must reload the cyberware with fresh ammo. **Takes 3 slots. Cost: 500eb. 7 (2d6)//2 HL . Clinic**

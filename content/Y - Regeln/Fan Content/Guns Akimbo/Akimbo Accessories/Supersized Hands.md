@@ -1,0 +1,1 @@
+Cyberhand. Borgware. Oversized cyberhands. Allows user to use any weapon, despite their BODY STAT. **Requires cyberarms. Takes 2 Option slots and must be paired, but only count as one cyberware installation**. **Cost: 1000eb. 14d6//4 HL. Clinic.**

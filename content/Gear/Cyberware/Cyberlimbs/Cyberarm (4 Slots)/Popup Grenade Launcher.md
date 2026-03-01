@@ -1,0 +1,3 @@
+|          Name          | Install |                                                                              Description & Data                                                                              |        Cost         |   HL    |
+| :--------------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: | :-----: |
+| Popup Grenade Launcher | Clinic  | A single shot [[Grenade Launcher]] installed in a [[Cyberarm]]. Weapon can be [[Conceal-Reveal Object\|concealed]]. **Requires a [[Cyberarm]] and takes up 2 Option Slots.** | 500eb (*Expensive*) | 7 (2D6) |

@@ -1,0 +1,1 @@
+Cyberlimb option. Each store 4 Standard, or 2 Extended Magazines for Shoulder Weapons at a time, actuators deploy them and insert into the gun when reloading. This grants you 4 (or 2\) instant reloads without spending an action, after that you must reload the cyberware with fresh ammo. **Takes 4 slots. Cost: 800eb. 7 (2d6)//2 HL . Clinic**

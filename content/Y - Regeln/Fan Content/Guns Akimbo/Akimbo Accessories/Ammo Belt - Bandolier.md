@@ -1,0 +1,1 @@
+This is a very conspicuous belt or bandolier with your magazines, clips, bullets, grenades and/or rockets. Built in the exact way for your Akimbo reloading needs, making the ammo easily accessible (and obvious to onlookers). When wearing this, your roll to reload both guns in one turn gets a \+1. **Cost: 500eb.**

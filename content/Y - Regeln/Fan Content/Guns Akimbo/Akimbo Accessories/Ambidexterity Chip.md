@@ -1,0 +1,3 @@
+When installed, this biochip makes the user ambidextrous. Anyone using it can make use of two single-handed tools or weapons at the same time. This chip doesn't let the user to independently focus the eyes, actions must be directed at a single objective. **Cost: 1000eb. 7 (2d6)//2HL.  Chipware Socket Required.**
+
+Much like a Reflex Coprocessor allows a person to dodge bullets without having REF 8, the Ambidexterity Chip lets a person Akimbo without REF 8\.
