@@ -11,4 +11,4 @@ When you allocate points into Cryosystem Operation you also gain a benefit as de
 | 4     | With 4 points in Cryosystem Operation you gain 2 more [[Cryotanks]] that can fit in the same room as your first one and your **Cryopump** has 2 charges and its maximum carrying capacity **increases to 2 people in stasis.**         |
 | 5     | With 5 points in Cryosystem Operation you gain 3 more Cryotanks that can fit in the same room as the first three and your Cryopump has 3 charges and its maximum carrying capacity **increases to three people in stasis.**            |
 
-#skill 
+#skill #medtech 

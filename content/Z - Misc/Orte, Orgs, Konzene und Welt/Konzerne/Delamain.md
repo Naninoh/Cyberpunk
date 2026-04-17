@@ -9,11 +9,11 @@ banner-radius: 19
 banner-display: 120%
 ---
 
-> **Pseudonyms**:  Delamain Corp
-> **Locations**:  [[Night City]]
-> **Type**: Taxi Company
-> **HQ**: Delamain HQ, Night City
-> **No. of Members:** Around 50 Caps
+> - **Pseudonyms**:  Delamain Corp
+> - **Locations**:  [[Night City]]
+> - **Type**: Taxi Company
+> - **HQ**: Delamain HQ, Night City
+> - **No. of Members:** Around 50 Caps
 
 > [!example] Overview
 > Delamain offers taxi transportation through its [armored taxi cabs](https://cyberpunk.fandom.com/wiki/Delamain_Cab "Delamain Cab"), driven by [artificial intelligence](https://cyberpunk.fandom.com/wiki/Artificial_intelligence "Artificial intelligence"), boasting transport to and from anywhere in Night City for reasonable fares.
@@ -22,4 +22,8 @@ banner-display: 120%
 
 ### Fleet:
 
-150eb
+#### [[Delamain Cab]] (**150eb**): 
+![[Delamain Cab]]
+ 
+
+#unfinished_important  #Corps

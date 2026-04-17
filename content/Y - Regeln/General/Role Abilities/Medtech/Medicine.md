@@ -12,4 +12,4 @@ Medtechs keep people alive who should be dead with their knowledge and training.
 
 There are additional uses for both the Surgery and Medical Tech Skills, which are only available to Medtechs through this Role Ability. These include [[Cyberware Installation|Cyberware installation]] and harvesting, Bodysculpting, and [[Therapy]]!
 
-#role-ability
+#role-ability #medtech

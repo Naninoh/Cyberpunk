@@ -6,4 +6,6 @@
 > Replacement spike strips are 10eb (Cheap). 
 > 
 > Multiple upgrades increase the amount of spike strips that can be deployed before the mechanism needs to be reloaded, which can't happen while the vehicle is moving.
+> 
+> *Requires [[Moto|Nomad Rank]] 1*
 

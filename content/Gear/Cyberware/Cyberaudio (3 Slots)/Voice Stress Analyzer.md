@@ -5,7 +5,7 @@
 > **Cost:** 100eb (*Premium*)
 > **Humanity Loss**: 2 (1d6/2 Rounded up)
 > **Install**: Mall
-> <font color="#da5f59">Effect:</font> Scramble outgoing & Descramble incoming communications
+> <font color="#da5f59">Effect:</font> User adds +2 to their Human Perception and Interrogation Skills
 > 
 > **Description:** 
 > Cyberaudio Option 

@@ -17,7 +17,7 @@ banner-y: 12
 > [[Conceal-Reveal Object|Concealable]]: Yes
 > 
 > **Description:** 
-> An Exotic [[Heavy Pistol]] with the [[Power Rebuild]]. It has a 12-shot capacity. When Using this Weapon to make an [[Aimed Shot]], it's damage Increases to 4D6.
+> Use Shoulder Arms Skill. Deals 5d6 damage, expending 3 rounds w/ each Attack Check. If not enough rounds are available to fire 3, the weapon fires all remaining rounds and deals 4d6 damage instead.
 
 
 Designed in the 2050s by Arasaka. Every single one of the Masamune’s elements, down to the tiniest screws and bolts, were quality-ensured by a legion of Arasaka engineers – and you can feel it. 

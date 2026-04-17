@@ -14,15 +14,15 @@ A mysterious gang from Pacifica with a dark reputation for their netrunning skil
 
 Most Voodoo Boys are Netrunners, so cooling suits and neural implants are common elements of a member's outfit complemented with "voodoo-flavored" elements like dreadlocks, tattoos, and the bones and skulls of small birds and rodents worn as charms. [Cyberware](https://cyberpunk.fandom.com/wiki/Cyberpunk_2077_Cyberware "Cyberpunk 2077 Cyberware") used by the gang include cyberdecks and neural links.
 
-> **Pseudonyms**:  VDBs
-> **Locations**:  [[Night City]] ([[Pacifica]])
-> **Leader**: [Philippe Oreste](https://cyberpunk.fandom.com/wiki/Philippe_Oreste)
-> **HQ**: 
-	Night City: [Batty's Hotel](https://cyberpunk.fandom.com/wiki/Batty%27s_Hotel)
-	Dogtown: [Eventide Resort & Spa](https://cyberpunk.fandom.com/wiki/Eventide_Resort_%26_Spa)
-> Type: [[1. Gangs#Cult Gang|Cult Gang]]
-> **[[#Source of Income|Income]]**: Hacking Databanks, Contractor Work (Hacking, Entering the Old Net)
-> **Philosophy**: Unknown, Contact Blackwall AI
+> - **Pseudonyms**:  VDBs
+> - **Locations**:  [[Night City]] ([[Pacifica]])
+> - **Leader**: [Philippe Oreste](https://cyberpunk.fandom.com/wiki/Philippe_Oreste)
+> - **HQ**: 
+> 	- Night City: [Batty's Hotel](https://cyberpunk.fandom.com/wiki/Batty%27s_Hotel)
+> 	- Dogtown: [Eventide Resort & Spa](https://cyberpunk.fandom.com/wiki/Eventide_Resort_%26_Spa)
+> - Type: [[1. Gangs#Cult Gang|Cult Gang]]
+> - **[[#Source of Income|Income]]**: Hacking Databanks, Contractor Work (Hacking, Entering the Old Net)
+> - **Philosophy**: Unknown, Contact Blackwall AI
 
 
 > [!fail]- VOODOO BOYS
