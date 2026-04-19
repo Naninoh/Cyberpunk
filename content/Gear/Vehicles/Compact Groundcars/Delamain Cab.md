@@ -18,8 +18,8 @@ banner-fade: -20
 > 
 > Special Effects: [[Armored Chassis]] (SP 13), [[Bulletproof Glass]], [[Deployable Spike Strip]], Self Driving (AI), [[NOS]] x2
 > 
-> **Type:** #Compact_Groundcar
-> **Group**: #Services
+> **Type:** Compact Groundcar
+> **Group**:  Services
 > **Cost:** **40.000€$**
 > 
 > **Description:** 
@@ -34,4 +34,4 @@ banner-fade: -20
 > 
 > A standard Villefort Cortes outfitted with an artificial intellegence. While other Ais on the market are little more than glorified chatbots connected to speech synthesizers, Delamain clearly possesses a well-defined personality. He can also bypass rush-hour traffic jams like its no one's business. Of course, Delamain is not so advanced to be self-aware... At least not according to his technical specs.
 
-#homebrew #2077conversion 
+#homebrew #2077conversion #Compact_Groundcar #Services

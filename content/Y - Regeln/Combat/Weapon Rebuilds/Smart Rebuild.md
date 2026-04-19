@@ -1,8 +1,7 @@
 > [!example] Description
 > 
 > <font color="#da5f59"><b>Effect:</b></font> 
-> Ricochet shots off cover for a -4 Penalty (Aimed Shots still only apply the -8)
-> +5 Damage to Critical Injuries (**This description is wrong**)
+> *User adds +1 to their Ranked Attack Check* and the weapon can be loaded with [[Improved Smart Ammunition]]
 > 
 > **Cost:** 1000€$ (*Very Expensive*)
 > **Eligable**: All Non-Exotic Ranged Weapons
@@ -16,8 +15,8 @@
 
 The weapon is a smart gun and requires a user to be connected to it using a Personal (Interface Plug) or a Subdermal Grip to operate. 
 
-When making a Ranged Attack with the weapon, the user adds +1 to their Check. Additionally, the weapon can be loaded with Improved Smart Ammunition of all the varieties it is capable of shooting. 
+When making a Ranged Attack with the weapon, *the user adds +1 to their Check*. Additionally, the weapon can be loaded with [[Improved Smart Ammunition]] of all the varieties it is capable of shooting. 
 
 If loaded with any other type of ammunition the user receives the +1 bonus but not the advantages of the Improved Smart Ammunition.
 
-#CEMK #unfinished_error
+#CEMK 

@@ -6,4 +6,5 @@ Upgrades/Notes: Hinterer Sitz nicht nutzbar wegen Angebundener Waffentasche
 Kaputter Motor: DV 22 - 3D6 - Nicht Reperierbarer Schaden bis Motoraustausch
 
 ![[Jesses Bike.png]]
+
 #homebrew 

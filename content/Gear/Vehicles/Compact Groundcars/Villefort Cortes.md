@@ -14,7 +14,7 @@ banner-fade: -115
 > **Style:** [KITSCH](https://cyberpunk.fandom.com/wiki/Kitsch "Kitsch")  - Style over substance.
 > **Drivetrain:** Rear-Wheel Drive
 > 
-> **Type:** #Compact_Groundcar
+> **Type:** Compact Groundcar
 > **Cost:** **28.000€$**
 > 
 > **Description:** 
@@ -30,4 +30,4 @@ banner-fade: -115
 > 
 > Probably the most valued of all vehicles to roll out of Villefort factories. The Cortes sports a simple yet elegant design which has attracted corpos, politicians and criminals alike. It is built on the same frame as the Alvarado but operates on only two axles, making it more prone to full breakdowns. Its impressive engine gives the Cortes a quick push off the line, and its reinforced body (created in collaboration with Militech) provides additional protection on Night City's unpredictable and dangerous streets.
 
-#2077conversion 
+#2077conversion #Compact_Groundcar
