@@ -4,7 +4,7 @@
 > **Cost:** 500eb (*Expensive*)
 > **Humanity Loss**: 3 (1d6)
 > **Install**: Clinic
-> **<font color="#da5f59">Effect:</font>** A [[Medium Melee Weapon]] that can be concealed inside the Fist without check
+> **<font color="#da5f59">Effect:</font>** A Cyberdeck installed directly into a Cyberarm. Adds 1 extra Program/Hardware Slot.
 > 
 > **Description:** 
 > Cyberarm Option.

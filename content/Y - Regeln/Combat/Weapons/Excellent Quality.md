@@ -1,6 +1,7 @@
-When attacking with an Excellent Quality Weapon you **add a +1 to your Attack Check** with it. 
-
-Cost varies based on the weapon’s base cost.
+> [!tip]
+> When attacking with an Excellent Quality Weapon you **add a +1 to your Attack Check** with it. 
+> 
+> Cost varies based on the weapon’s base cost.
 
 #### Costs:
 
