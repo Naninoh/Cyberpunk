@@ -148,7 +148,7 @@ You have taken someone Body. That some had a life. History. Maybe even Friends a
 
 But one thing is clear, you aren't the only...something in this Meat Mech you captured, and your Host won't give up without a fight.
 
- [!tip] Rules
+ > [!tip] Rules
 > In 
 > - AIs have a spe
 
@@ -178,4 +178,4 @@ Your Body has no Power of you. You can suppress Pain Signals and push tired musc
 
 Sometimes what you gained feels fickle. Like there is this side of you that's just waiting for you slip up even just once. You can suppress it on most days. But sometimes you feel you get close to your breaking point. 
 
-#unfinished #homebrew
+#unfinished #homebrew_rules 
