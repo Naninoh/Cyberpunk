@@ -35,7 +35,7 @@ See- a person on the edge of [[Cyberpsychosis]] is basically already on their wa
 >- ###### Nice stuff you got there: 
 >  If the GM is so inclined, they can further stock new bodies with already installed Cyberware, Items or other possessions. This should be used sparingly and come with trade-offs.
 >- ###### Wake the Fuck up Samurai: 
->  A GM can decide to Heal a Mortally Wounded new Body back up to full life (You know like the Relic did with V) 
+>  A GM can decide to Heal a [[Mortally Wounded]] new Body back up to full life (You know like the Relic did with V) 
 >- ###### Sightseeing: 
 >  To make this Mechanic less "abuse-able", a this mechanic can be altered to have the AI enter a random body in Night City close to an access point instead of the closest of the closest. Net Archs in the City are plentyful and all in connection range of each other so why not throw the AI around these Archs a bit. (If an AI switches bodies in a Pub in the Badlands, that most likely wouldn't be the case)
 
