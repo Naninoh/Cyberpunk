@@ -8,7 +8,13 @@
 
 ## Session Notes:
 
-#### [REDACTED]
+- Der Security Guard den Gabriel im Security Büro getötet hat heißt [[Sam Parker]].
+	- Er ist gestorben indem das Display seiner Workstation in sein Gesicht explodiert ist. Davon war nicht mehr viel übrig. Glasscherben steckten darin.
+- Die anderen Guards (Alle Tot): 
+
+- [[Skybreak Spire]] ist von [[Night Corp]] gebaut worden. Die Security is auch von Night Corp angestellt.
+
+- Omen Aussehen: Blasse Haut. Schwarze lange Haare. Orangene Augen. 28.
 
 ## Standout Moments
 
@@ -26,11 +32,16 @@
 
 ## New [[To-Do]]'s/[[Ideas]]
 
-#### [REDACTED]
+[Redacted]
+- To-Do: Omen fertig machen
 
 ## Important/New NPCs
 
-#### [REDACTED]
+#### Important:
+- [[Gabriel Nguyen]] - Lebendig Gefangen genommen
+- [[Time to Save an Angel - Part 1#Stack (Muscle)|Stack]] - Hat auf [[Chip]] geschossen und sich dann zurück gezogen 
+#### New:
+- [[Sam Parker]] - Toter Security
 
 ## Where did we end the Session
 
@@ -38,11 +49,28 @@ Am Dock des [[Skybreak Spire]], Ethan angerufen um abgeholt zu werden. Eigentlic
 
 ## Where to go next/Possible Plot hooks
 
-#### [REDACTED]
+[Redacted]
 
 ## Player Moments/IP Evaluation
 
-#### [REDACTED]
+- ### Lasse:
+	- Jesse [[#Standout Moments|reißt das Gebäude ein]]
+	- Wirft Granaten auf seine Mitspieler in der ersten Runde vom Combat
+
+- ### Gina:
+	- Hackt sich in das System um die Pläne zu finden
+	- Findet die NetArch Box um die Dronen abzuschalten
+
+- ### Marta:
+	- Anya Untersucht den Security Guard
+	- Sie holt sich extra nochmal eine Stange zum Kämpfen und Vergisst sie dann
+
+- ### Lennart:
+	- Lennart nutzt eine Cave Diver AD um sich den Weg zu einem Kapselroboter durch zu arbeiten
+	- Nutzt den Microwaver
+
+- ### Leonie:
+	- Schützt ihr eigenes Leben indem sie den Kampf nur von der Seite aus mitmacht
 
 
 ![[WhatsApp Image 2025-08-28 at 17.14.51 (1).jpeg]]![[WhatsApp Image 2025-08-28 at 17.14.51.jpeg]]

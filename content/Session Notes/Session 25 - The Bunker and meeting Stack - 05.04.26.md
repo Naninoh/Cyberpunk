@@ -13,15 +13,20 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- Omen wirft einen abgetrennten Arm vor das verbleibende Reset Mitglied (Control) um sie einzuschüchtern 
+	- Control
+		- 17 Jahre alt
+		- Kurze Haare
 
 ### Standout Moments
 
-#### [REDACTED]
+- Elster [Redacted]
+- [Redacted]
+- Martas Roleplay eines Cyberpsychos
 
 ## <font color="#fe66fd">Where did we end the Session</font>
 
-#### [REDACTED]
+Die Spieler sind immer noch in der Arasaka Waterfront direkt nach ihrem Treffen mit Reset. Ein Tag bevor Ethan wieder da ist.
 
 
 ---
@@ -29,7 +34,9 @@
 
 ### <font color="#9bbb59">What went well:</font>
 
-#### [REDACTED]
+- Improv
+	- Das Treffen mit Stack
+- Kampf speed
 
 
 

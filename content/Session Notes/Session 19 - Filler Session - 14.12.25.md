@@ -7,7 +7,11 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- Weihnachtsbasis: An oder um Weihnachten +1 auf alle Aktionen
+- Chip hat herausgefunden was mit dem Auto passiert ist
+- Monthly Night Market
+- **Nico hat einen Favor bei Chip offen**
+- [Redacted]
 
 ## <font color="#d83931">Rules to Figure-Out</font>
 

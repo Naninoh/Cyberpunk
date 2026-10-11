@@ -6,6 +6,6 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+[Redacted]
 
 

@@ -12,15 +12,25 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- [[Anya ''Ani'' Ramirez]] und [[Omen]] 30 IP Out + 2000€$ für Omen
+- Elster konfrontiert Jesse wegen Ethan in einem Flashback
+	- Jesse hat Emotionale Intelligenz???
+- Jesse findet und klettert auf die Feuerleiter
+- Chip ist ein extra in Watson Whore (Episode 3)
+- Jesse hat eine neue Narbe an der Stirn von der Kugel die durch seine Maske durch ist
+- [Redacted]
+- Wenn Jesse wieder da ist: Therapy
+- [Redacted]
 
 ### Standout Moments
 
-#### [REDACTED]
+- Die Brücke
+- [Redacted]
+- Jesse bekommt einen Headshot
 
 ## Neue [[To-Do]]'s/[[Ideas]]
 
-- TODO: Artikel zur eingestürzten Brücke
+[Redacted]
 - TODO: Stirn Narbe bei Jesse in den Charakterbogen eintragen
 
 ## Important/New NPCs
@@ -32,9 +42,20 @@
 - [[Nat]] - Lone Nomad Warrior
 ## <font color="#fe66fd">Where to go next/Possible Plot hooks</font>
 
-#### [REDACTED]
+[Redacted]
 
 ## Player Moments/[[2. Aktuelles|IP Evaluation]]
-#### [REDACTED]
+### [[Improvement Points#▶ Playstyle Improvement Point Table|Group IP]]:  40
+
+- ### Lasse:
+	- Verteidigt sich vor Elster +5 (Roleplayer)
+	- Findet Feuerleiter + 5 (Explorer)
+
+- ### Gina:
+	- Elster konfrontiert Jesse +15 (Roleplayer)
+	
+
+- ### Lennart:
+	- Chip ist ein Extra bei Watson Whore +5 (Roleplayer)
 
 ---

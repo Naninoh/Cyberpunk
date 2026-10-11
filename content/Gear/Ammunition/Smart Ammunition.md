@@ -1,3 +1,4 @@
+
 > [!tip] Description: 
 > **Cost:** 500eb (Expensive)
 > **Ammo Types Available:** Arrows, Bullets, and Rockets

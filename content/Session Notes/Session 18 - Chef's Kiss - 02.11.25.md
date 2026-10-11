@@ -12,9 +12,7 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-- Martial Combat anschauen!!!!
-- Meat & Co (Name der Firma)
-- Anya der Serial Ass Slapper
+[Redacted]
   
 ## Neue [[To-Do]]'s
 
@@ -32,7 +30,7 @@ Die Spieler haben sich schwer verletzt in die Bahn geschleppt.
 
 ## <font color="#fe66fd">Possible Plot hooks</font>
 
-#### [REDACTED]
+[Redacted], weil sie zur Falschen Zeit am Falschen Ort waren.
 
 
 ---

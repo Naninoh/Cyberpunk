@@ -18,7 +18,13 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+[Redacted]
+- Chip hat 2 Kleidungssets: 1x Armorjack u. 1x Kevlar. Beides ist Leisurewear.
+- Omen hat ein Tattoo: (Rot) Leuchtende Fledermaus auf dem Rücken
+- Chip und Jesse wollen den verführten Cop anrufen
+- Elster kauft ein Afterlife Schnappsglas für Jesse
+- Chip nutzt Homeless Background to Sympathise mit den Leuten im Camp
+- Omen ist vom 12.02. - 25.02. Krank (-4)
 
 ### Standout Moments
 
@@ -45,11 +51,12 @@ Omen kämpft gegen die Reckoners, die Spieler sind auf dem Weg zur Lagerhalle.
 ## <font color="#fe66fd">Where to go next/Possible Plot hooks</font>
 
 - Continue with Staying Vigilant
-- [REDACTED]
+- [[Ethan Petrov]] gibt nochmal einen Auftrag
 
 ## Player Moments/[[2. Aktuelles|IP Evaluation]]
 
-#### [REDACTED]
+[Redacted]
+
 ---
 # Self-Reflection
 
@@ -60,7 +67,11 @@ Omen kämpft gegen die Reckoners, die Spieler sind auf dem Weg zur Lagerhalle.
   
 ### <font color="#d83931">What could have gone better:</font>
 
-- [REDACTED]
+- PREP
+
+### Things to change:
+
+Mehr Jobs vorbereiten für solche Fälle!!!!
 
 ---
 

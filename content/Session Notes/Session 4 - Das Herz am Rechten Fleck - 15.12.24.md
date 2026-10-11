@@ -1,4 +1,4 @@
-
+`15.12.77` 
 > [!summary] Quick Session Summary
 > Nachdem die Gruppe realisiert, dass die ganze Sache in [[4. Stripped]] doch größer war als gedacht, haben sie sich entschieden, die Sache nicht weiter zu verfolgen, was bedeutet dass [[Min Jin]] ihr kleines Projekt auch nicht wieder bekommen hat.
 > 
@@ -12,11 +12,14 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+[Redacted]
 
 ## New NPCs
 
-#### [REDACTED]
+#### New:
+
+- Joon Bu
+- Harald Bu
 ## <font color="#d83931">Rules to Look-Up/Figure-Out</font>
 #### Rules:
 

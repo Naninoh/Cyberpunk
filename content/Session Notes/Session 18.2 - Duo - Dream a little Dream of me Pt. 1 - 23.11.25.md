@@ -7,8 +7,16 @@
 > Session Prep Notes: [[0. Dream a little Dream of me - Overview|0. Overview]]
 
 ## <font color="#92d050">Session Notes</font>
-#### [REDACTED]
+
+- [Redacted]
+- News Story zu Astras BD!
+- Lewis 24h Audiorecorder
+- Preise für Public Transport festlegen
+	- Day & Night System? 
+		- Night Car faster
+		- Day Train faster
 
 ## New NPCs
 
-#### [REDACTED]
+- [[NPCs/Neutral/Medien/Astra Lace]] 
+- [[Lior Vance - Ex Boyfriend]]

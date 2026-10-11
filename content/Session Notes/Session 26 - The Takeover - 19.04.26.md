@@ -15,11 +15,27 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- Jesse hat 3 Menschen überfahren
+- Alle Informationen über Reset und Ethan an [[Staying Vigilant Overview|Trace Santiago]] 
+- New Mechanic: Humanity Wurf
+	- 1D100 auf Humanity. Drunter = Humanity Schaden | Drüber = Keiner
+- [Redacted]
+- [Redacted]
+- [Redacted]
+- IP schon ausgegeben!!
+- Chips Auto ist Explodiert
+- Liz stirbt
+	- [Redacted]
+	- [Redacted]
+	- [Redacted]
+- Von der AI übernommene Bürger streifen durch die Stadt 
 
 ### Standout Moments
 
-#### [REDACTED]
+- Jesse zerstört Chips Auto indem er eine Scheibe eintritt
+- [Redacted]
+- Liz greift in AI psychosis Jesse an
+- Min schießt Liz in den Kopf um Jesse zu helfen.
 
 ## <font color="#d83931">Rules to Figure-Out</font>
 
@@ -30,13 +46,16 @@
 
 ## <font color="#fe66fd">Where did we end the Session</font>
 
-- Jesse is out in the City going after Min
-- Min is with [[Magnus Kinetic]] hiding from the chaos going on in the city
+- [Redacted]
+- [Redacted]
 - The rest of the group stands on a rock outside Night City, overlooking it. The Sun coming up behind them, as they look at the destruction ravaging the city.
 
 ## <font color="#fe66fd">Where to go next/Possible Plot hooks</font>
 
-#### [REDACTED]
+- [Redacted]
+- [Redacted]
+- Jesse wants Revenge on Min?
+- [Redacted]
 
 ---
 # Self-Reflection

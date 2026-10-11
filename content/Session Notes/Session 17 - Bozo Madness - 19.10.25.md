@@ -11,13 +11,13 @@
 ## <font color="#92d050">Session Notes</font>
 
 - [[Omen]]: [[Cyberaudio Suite]] + [[Voice Stress Analyzer]]
-- [REDACTED]
+- [Redacted]
 - GPS-System für die Gruppe erfinden
 - [[Kabuki Corner]]
 	- 75% Preis
 	- Elster kein Freundschaftsrabatt
-	- [REDACTED]
-- Chips name ist bei der Polizei gefallen
+	- Nico Fat Cat Leader
+- [Redacted]
 
 ### Standout Moments
 
@@ -43,7 +43,7 @@ Raketenwerfer Schuss ist auf Elster zugeflogen. Frage was passiert wenn ein Expl
 
 ### <font color="#9bbb59">What went well:</font>
 
-- Mystery um [[Nico Fellbrook|Nico]] und [REDACTED]
+- [Redacted]
 - Roleplay zwischen Spielern und mit NPCs
 - Lennart 1000% engaged die süße Maus
   

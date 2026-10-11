@@ -12,11 +12,29 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- Unreal Burgers
+	- Daddy's Meat
+	- Schlabber Babber
+- [Redacted]
+- Mr. McGucket - 110 Jahre Alt, Veteran
+	- Kriegsheld im Arasaka Bombing
+	- Später ein wichtiger teil der 6th Street
+	- Enkelin Tilly, 20
+- **Jesse hat den Agent von Ethan zerstört mit dem er ihn getracked hat** 
+- [Redacted]
+- City Map extra so gestored, dass die nicht kaputt geht von Anya
+- Aktenschrank für alle physical Handouts
+- Anyas [[Light Armorjack]] ist als Leisurewear verkleidet
+- Jesse arbeitet weiter für Ethan
+- [Redacted]
+- [Redacted]
+
 
 ## Neue [[To-Do]]'s/[[Ideas]]
 
-#### [REDACTED]
+- [Redacted]
+
 ## Important/New NPCs
 
-#### [REDACTED]
+#### New:
+- [[Lewes Rodriguez]]

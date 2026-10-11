@@ -2,7 +2,7 @@
 > [!fail] Glitter
 > ![](https://static.wikia.nocookie.net/cyberpunk/images/a/a7/Glitter_Database_CP2077.png/revision/latest?cb=20210531185810)
 > 
-> Glitter is a **highly addictive psychedelic drug** and recent arrival on Night City's streets. The new substance quickly drew Night City's full attention. **First, it's truly strong stuff, even for the booster-and-braindance glutted residents of Night City.** Second, glitter is illegal, immediately giving it the irresistible aura of "forbidden fruit." Finally: glitter kills. 
+> Glitter is a **highly addictive psychedelic drug** and recent arrival on Night City's streets. The new substance quickly drew Night City's full attention. **First, it's truly strong stuff, even for the booster-and-**[[braindance]] **glutted residents of Night City.** Second, glitter is illegal, immediately giving it the irresistible aura of "forbidden fruit." Finally: glitter kills. 
 > 
 > One off-dose or weak nervous system and glitter will have those neurons firing white-hot (hence the name, perhaps). Death is inevitable.
 

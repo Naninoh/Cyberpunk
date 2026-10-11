@@ -16,21 +16,31 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- AD: Chip bekommt für 24 hrs 20% Rabatt auf einen Krankenhausbesuch
+- William Berg (Der Hehler der Indigos [[Kereznikov]] verkauft hat)
+[Redacted]
+- Mehr Ambiences 
+- **[[Rin Akamoto|Rin]] hat Chip versprochen, dass er ihre Backstory hören darf wenn er Job überlebt**
+- Chip hat eine Zündkerze für Jesse gekauft und eine Kriegsmedallie für den nächsten Monat reserviert (25 €$)
+[Redacted]
+[Redacted]
+- Kennzeichen von den Dukes Leuten die Chip verfolgt haben: **XBLU5**
 
 ### Standout Moments
 
-#### [REDACTED]
+[Redacted]
 
 ## Neue [[To-Do]]'s/[[Ideas]]
 
-#### [REDACTED]
+[Redacted]
 
 ## Important/New NPCs
 
 #### New:
 
-#### [REDACTED]
+- [[Rin Akamoto]] - Full Borg Scav Jägerin
+- [[Winston „Duke“ Morata]] - Fixer - Leitet den White Spade Night Market
+- William Berg - Hehler 
   
 ## <font color="#d83931">Rules to Look-Up/Figure-Out</font>
 
@@ -38,15 +48,19 @@ None
 
 ## <font color="#fe66fd">Where did we end the Session</font>
 
-#### [REDACTED]
+- [Redacted] bei Chip in der Wohnung im Bett 
 
 ## <font color="#fe66fd">Where to go next/Possible Plot hooks</font>
 
-#### [REDACTED]
+[Redacted]
 
 ## Player Moments/[[2. Aktuelles|IP Evaluation]]
 
-#### [REDACTED]
+- ### Lennart:
+	- Auf dem Weg zum Market die Valentinos mit seinem Shreeker eingeschüchtert
+	- Auf dem Markt alles Sorgfältig abgesucht und sich neue Rüstung gekauft
+	- Vorsichtig Informationen aus dem Händler geholt
+	= 15 IP
 
 ---
 # Self-Reflection

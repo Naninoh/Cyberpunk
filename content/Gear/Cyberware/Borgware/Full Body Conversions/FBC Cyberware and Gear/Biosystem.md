@@ -10,7 +10,7 @@
 
 A revolution in human-machine interface and an upgrade in FBC integration design! A step up from the systems of the past, Biosystems contain not only the brain (and other choice bits) in an integrated Biopod but a full suite of computer systems and batteries. The added functionality of the Biosystem allows designers to offload some computational processing and power generation, resulting in a drop in cost for many FBC body models. Access to the Biosystem for the purposes of injecting medications or a dose of Glucose-Rich Brain Solution is usually done via a closed port located on the back of the neck or chest (when in a body).
 
-The Biosystem can operate independently if need be – without mobility but with basic sensory and speaker systems so the user can interact with the outside world and, most importantly, receive therapy via Braindance.
+The Biosystem can operate independently if need be – without mobility but with basic sensory and speaker systems so the user can interact with the outside world and, most importantly, receive therapy via [[Braindance]].
 
 A Biosystem is hardened against all EMP Effects and immune to Radiation. The Biosystem contains the user’s consciousness and identity. Their Skills and INT, COOL, TECH, WILL, LUCK, and EMP Statistics remain the same as they were in their meat body. Their BODY Statistic, Hit Points, and Death Save change depending on the inhabited FBC body. Their REF, DEX, and MOVE Statistics may change depending on what cyberware is installed in the inhabited FBC body.
 

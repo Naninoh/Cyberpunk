@@ -16,19 +16,41 @@
 
 ## <font color="#92d050">Session Notes</font>
 
-#### [REDACTED]
+- Replacing already installed Cyberware = ½ Humanity Loss?
+- Anyas Look: 
+	- Work/Job: Leisurewear (Tanktops, Joggers, Trainers)
+	- Free Time/Dress-Up: Bohemian (Traditional Dominican Wear)
+- Martial Arts übertragen: Militech (2) & Kung Fu (4)
+- 200eb = Generator dauerhaft gefixt
+- Klinik Untersuchung von Polizei
+- Homebrew: Anyas Business
+	- Reparieren = ¼ Verbaupreis
+	- Einbauen (braucht die Cyberware) = ½ Kaufpreis
+- Möglicher Gang Krieg in Santo Domingo
+- Anya ist Krank!
+- **Hat Rafa gerettet (+1 Rep bei [[6th Street]])**
+- Zeitungsartikel Hände? (Weil sie auf Video aufgenommen wurde(-2 Rep))
 
 ### Standout Moments
 
-#### [REDACTED]
+- Hat das Kind und Rafa gerettet
+- Roleplay mit Hannes im Bodega. Hat die Teenager vom Stehlen aufgehalten.
 
 ## Neue [[To-Do]]'s/[[Ideas]]
 
-#### [REDACTED]
+- TO-DO: Martial Arts übertragen: Militech (2) & Kung Fu (4)
+[Redacted]
 
 ## Important/New NPCs
 
-#### [REDACTED]
+#### Important:
+- [[Emi Fernandez]] - Kleiner tüftler Junge
+- [[Jake Dickson]] - 6th Street Anya Friend
+- [[Rafa Gunner]] - Next 6th Street Boss
+#### New:
+- [[Emi Fernandez]]
+- <font color="#00b050">Hannes - 75 - Besitzer des Bodegas</font>
+- [[Rafa Gunner]] 
 ## <font color="#d83931">Rules to Figure-Out</font>
 #### Homebrew:
 
@@ -38,14 +60,16 @@
 
 ## <font color="#fe66fd">Where did we end the Session</font>
 
-#### [REDACTED]
+- Anya hat die Drone besiegt und Enrico gerettet
 
 ## <font color="#fe66fd">Where to go next/Possible Plot hooks</font>
 
-#### [REDACTED]
+[Redacted]
+
 ## [[2. Aktuelles|IP Evaluation]]
 
-#### [REDACTED]
+- ### Marta:
+	- 15 IP
 
 ---
 # Self-Reflection
@@ -58,6 +82,10 @@
 ### <font color="#d83931">What could have gone better:</font>
 
 - A bit Rushed and Short
+
+### Things to change:
+
+
 
 ---
 
