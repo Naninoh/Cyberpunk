@@ -1,3 +1,3 @@
-# Shield
+# [[Shields|Shield]]
 
-#unfinished
+#unfinished #rules #combat

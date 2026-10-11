@@ -19,3 +19,4 @@ DV based on distance:
 |      **SMGs:**      |   20    |    17    |    20     |    25     |     30     |
 | **Assault Rifles:** |   22    |    20    |    17     |    20     |     25     |
 
+#rules 

@@ -5,4 +5,6 @@ If you roll under the DV required to hit your intended target, the GM decides wh
 Anyone with REF 8 or higher can choose to individually dodge the blast by rolling higher than your
 original Check, placing themselves outside of the blast area if they succeed.
 
-An explosive blast will not damage a target behind cover that its damage would be insufficient to destroy. **However, if the damage from the explosive would be sufficient to destroy the cover, the ==individual is no longer behind cover and they take full damage==.**
+An explosive blast will not damage a target behind cover that its damage would be insufficient to destroy. **However, if the damage from the explosive would be sufficient to destroy the cover, the individual is no longer behind cover and they take full damage.**
+
+#weapons #rules #combat

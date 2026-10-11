@@ -5,3 +5,4 @@ Subtract the SP from the Damage you took in that location.
 > 
 > If the damage wasn't aimed, it is considered to have hit the body.
 
+#armor  #rules #combat

@@ -5,3 +5,4 @@ When you use Suppressive Fire, **it costs an Action and 10 Bullets**. If you don
 > - **Anyone that fails** must use their next Move Action to get into cover. If that Move Action would be insufficient to get into cover, they must also use the Run Action to get into cover or as close to cover as possible.
 
 
+#weapons #rules #combat
